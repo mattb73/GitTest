@@ -4,5 +4,7 @@
     <string name="app_name">GitTest</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name = "first_branch">We're in the first branch!</string>
+    <string name = "master_branch">We're in the master branch!!!</string>
 
 </resources>
